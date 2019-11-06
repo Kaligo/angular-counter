@@ -10,9 +10,9 @@ Check out the demo page at http://indrimuska.github.io/angular-counter.
 
 ## Dependencies
 
-* [jQuery](https://jquery.com/) >= 1.7.1
+* [jQuery](https://jquery.com/) >= 1.8
 * [jQuery Easing](http://gsgd.co.uk/sandbox/jquery/easing/) by gsgd, CDN [here](http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js)
-* [AngularJS](https://angularjs.org/)
+* [AngularJS](https://angularjs.org/) >= 1.6
 
 ## Installation
 
